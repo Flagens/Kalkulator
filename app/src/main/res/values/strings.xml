@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="counter_label_text">COUNTER</string>
+    <string name="increment_btn">INCREMENT</string>
+    <string name="decrement_btn">DECREMENT</string>
+    <string name="counter">0</string>
+    <string name="clicker_btn">clicker</string>
+    <string name="main_menu_btn">Main Menu</string>
+    <string name="quadratic_text">Quadratic Functions\nax**2+bx+c=0</string>
+    <string name="calculate_btn">Calculate</string>
+    <string name="base_calculator_btn">Base Calculator</string>
+    <string name="quadratic_calculator">Quadratic Calculator</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="quadratic_a_placeholder">a</string>
+    <string name="quadratic_b_placeholder">b</string>
+    <string name="quadratic_c_placeholder">c</string>
+    <string name="calculator">Calculator</string>
+    <string name="hello_btn">Hello</string>
+</resources>
